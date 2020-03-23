@@ -1,0 +1,31 @@
+{
+"comics" : [
+	{
+		"Title" : "Asterix the Gaul",
+		"Year Published" : 1961,
+		"Original Title" : "Astérix le Gaulois",
+		"Finnish Title" : "Asterix gallialainen",
+		"Volume Number" : 1,
+		"Cover" : "http://sarjakuvat.eurocomics.info/pics/asterix/asterix18.jpg",
+		"Author" : "René Goscinny & Albert Uderzo"
+    },
+    {
+		"Title" : "Asterix and the Golden Sickle",
+		"Year Published" : 1962,
+		"Original Title" : "La Serpe d’or",
+		"Finnish Title" : "Kultainen Sirppi",
+		"Volume Number" : 2,
+		"Cover" : "filepath",
+		"Author" : "René Goscinny & Albert Uderzo"
+	},
+	{
+		"Title" : "English title",
+		"Year Published" : 1963,
+		"Original Title" : "French title",
+		"Finnish Title" : "Finnish title",
+		"Volume Number" : 3,
+		"Cover" : "filepath",
+		"Author" : "René Goscinny & Albert Uderzo"
+    }
+]
+}
