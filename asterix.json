@@ -6,7 +6,7 @@
 		"Original" : "Astérix le Gaulois",
 		"Finnish" : "Asterix gallialainen",
 		"Volume" : 1,
-		"Cover" : "http://sarjakuvat.eurocomics.info/pics/asterix/asterix18.jpg",
+		"Cover" : "images/asterix-1.jpg",
 		"Author" : "René Goscinny & Albert Uderzo"
 	},
 	{
@@ -15,53 +15,332 @@
 		"Original" : "La Serpe d’or",
 		"Finnish" : "Kultainen Sirppi",
 		"Volume" : 2,
-		"Cover" : "filepath",
+		"Cover" : "images/asterix-2.jpg",
 		"Author" : "René Goscinny & Albert Uderzo"
 	},
 	{
-		"Title" : "English title",
+		"Title" : "Asterix and the Goths",
 		"Published" : 1963,
-		"Original" : "French title",
-		"Finnish" : "Finnish title",
+		"Original" : "Astérix et les Goths",
+		"Finnish" : "Asterix ja gootit",
 		"Volume" : 3,
-		"Cover" : "filepath",
+		"Cover" : "images/asterix-3.jpg",
 		"Author" : "René Goscinny & Albert Uderzo"
 	},
 	{
-		"Title" : "English title",
-		"Published" : 1963,
-		"Original" : "French title",
-		"Finnish" : "Finnish title",
+		"Title" : "Asterix the Gladiator",
+		"Published" : 1964,
+		"Original" : "Astérix gladiateur",
+		"Finnish" : "Asterix gladiaattorina",
 		"Volume" : 4,
-		"Cover" : "filepath",
+		"Cover" : "images/asterix-4.jpg",
 		"Author" : "René Goscinny & Albert Uderzo"
 	},
 	{
-		"Title" : "English title",
-		"Published" : 1963,
-		"Original" : "French title",
-		"Finnish" : "Finnish title",
+		"Title" : "Asterix and the Banquet",
+		"Published" : 1965,
+		"Original" : "Le Tour de Gaule",
+		"Finnish" : "Asterix lyö vetoa",
 		"Volume" : 5,
-		"Cover" : "filepath",
+		"Cover" : "images/asterix-5.jpg",
 		"Author" : "René Goscinny & Albert Uderzo"
 	},
 	{
-		"Title" : "English title",
-		"Published" : 1963,
-		"Original" : "French title",
-		"Finnish" : "Finnish title",
+		"Title" : "Asterix and Cleopatra",
+		"Published" : 1965,
+		"Original" : "Astérix et Cléopâtre",
+		"Finnish" : "Asterix ja Kleopatra",
 		"Volume" : 6,
-		"Cover" : "filepath",
+		"Cover" : "images/asterix-6.jpg",
 		"Author" : "René Goscinny & Albert Uderzo"
 	},	
 	{
-		"Title" : "English title",
-		"Published" : 1963,
-		"Original" : "French title",
-		"Finnish" : "Finnish title",
+		"Title" : "Asterix and the Big Fight",
+		"Published" : 1966,
+		"Original" : "Le Combat des chefs",
+		"Finnish" : "Päälliköiden ottelu",
 		"Volume" : 7,
-		"Cover" : "filepath",
+		"Cover" : "images/asterix-7.jpg",
 		"Author" : "René Goscinny & Albert Uderzo"
-	}	
+	},
+	{
+		"Title" : "Asterix in Britain",
+		"Published" : 1966,
+		"Original" : "Astérix chez les Bretons",
+		"Finnish" : "Asterix Britanniassa",
+		"Volume" : 8,
+		"Cover" : "images/asterix-8.jpg",
+		"Author" : "René Goscinny & Albert Uderzo"
+	},
+	{
+		"Title" : "Asterix and the Normans",
+		"Published" : 1966,
+		"Original" : "Astérix et les Normands",
+		"Finnish" : "Asterix ja normannien maihinnousu",
+		"Volume" : 9,
+		"Cover" : "images/asterix-9.jpg",
+		"Author" : "René Goscinny & Albert Uderzo"
+	},
+	{
+		"Title" : "Asterix the Legionary",
+		"Published" : 1967,
+		"Original" : "Astérix légionnaire",
+		"Finnish" : "Asterix legioonalaisena",
+		"Volume" : 10,
+		"Cover" : "images/asterix-10.jpg",
+		"Author" : "René Goscinny & Albert Uderzo"
+	},
+	{
+		"Title" : "Asterix and the Chieftain's Shield",
+		"Published" : 1968,
+		"Original" : "Le Bouclier arverne",
+		"Finnish" : "Asterix ja kadonnut kilpi",
+		"Volume" : 11,
+		"Cover" : "images/asterix-11.jpg",
+		"Author" : "René Goscinny & Albert Uderzo"
+	},
+	{
+		"Title" : "Asterix at the Olympic Games",
+		"Published" : 1968,
+		"Original" : "Astérix aux Jeux olympiques",
+		"Finnish" : "Asterix olympialaisissa",
+		"Volume" : 12,
+		"Cover" : "images/asterix-12.jpg",
+		"Author" : "René Goscinny & Albert Uderzo"
+	},
+	{
+		"Title" : "Asterix and the Cauldron",
+		"Published" : 1969,
+		"Original" : "Astérix et le Chaudron",
+		"Finnish" : "Asterix ja rahapata",
+		"Volume" : 13,
+		"Cover" : "images/asterix-13.jpg",
+		"Author" : "René Goscinny & Albert Uderzo"
+	},
+	{
+		"Title" : "Asterix in Spain",
+		"Published" : 1969,
+		"Original" : "Astérix en Hispanie",
+		"Finnish" : "Asterix Hispaniassa",
+		"Volume" : 14,
+		"Cover" : "images/asterix-14.jpg",
+		"Author" : "René Goscinny & Albert Uderzo"
+	},
+	{
+		"Title" : "Asterix and the Roman Agent",
+		"Published" : 1970,
+		"Original" : "La Zizanie",
+		"Finnish" : "Asterix ja riidankylväjä",
+		"Volume" : 15,
+		"Cover" : "images/asterix-15.jpg",
+		"Author" : "René Goscinny & Albert Uderzo"
+	},
+	{
+		"Title" : "Asterix in Switzerland",
+		"Published" : 1970,
+		"Original" : "Astérix chez les Helvètes",
+		"Finnish" : "Asterix ja alppikukka",
+		"Volume" : 16,
+		"Cover" : "images/asterix-16.jpg",
+		"Author" : "René Goscinny & Albert Uderzo"
+	},
+	{
+		"Title" : "The Mansions of the Gods",
+		"Published" : 1971,
+		"Original" : "Le Domaine des dieux",
+		"Finnish" : "Jumaltenrannan nousu ja tuho",
+		"Volume" : 17,
+		"Cover" : "images/asterix-17.jpg",
+		"Author" : "René Goscinny & Albert Uderzo"
+	},
+	{
+		"Title" : "Asterix and the Laurel Wreath",
+		"Published" : 1972,
+		"Original" : "Les Lauriers de César",
+		"Finnish" : "Asterix ja Caesarin laakeriseppele",
+		"Volume" : 18,
+		"Cover" : "images/asterix-18.jpg",
+		"Author" : "René Goscinny & Albert Uderzo"
+	},
+	{
+		"Title" : "Asterix and the Soothsayer",
+		"Published" : 1972,
+		"Original" : "Le Devin",
+		"Finnish" : "Asterix ja ennustaja",
+		"Volume" : 19,
+		"Cover" : "images/asterix-19.jpg",
+		"Author" : "René Goscinny & Albert Uderzo"
+	},
+	{
+		"Title" : "Asterix in Corsica",
+		"Published" : 1973,
+		"Original" : "Astérix en Corse",
+		"Finnish" : "Asterix Korsikassa",
+		"Volume" : 20,
+		"Cover" : "images/asterix-20.jpg",
+		"Author" : "René Goscinny & Albert Uderzo"
+	},
+	{
+		"Title" : "Asterix and Caesar's Gift",
+		"Published" : 1974,
+		"Original" : "Le Cadeau de César",
+		"Finnish" : "Asterix ja Caesarin lahja",
+		"Volume" : 21,
+		"Cover" : "images/asterix-21.jpg",
+		"Author" : "René Goscinny & Albert Uderzo"
+	},
+	{
+		"Title" : "Asterix and the Great Crossing",
+		"Published" : 1975,
+		"Original" : "La Grande Traversée",
+		"Finnish" : "Asterix ja suuri merimatka",
+		"Volume" : 22,
+		"Cover" : "images/asterix-22.jpg",
+		"Author" : "René Goscinny & Albert Uderzo"
+	},
+	{
+		"Title" : "Obelix and Co.",
+		"Published" : 1976,
+		"Original" : "Obélix et compagnie",
+		"Finnish" : "Obelix ja kumppanit",
+		"Volume" : 23,
+		"Cover" : "images/asterix-23.jpg",
+		"Author" : "René Goscinny & Albert Uderzo"
+	},
+	{
+		"Title" : "Asterix in Belgium",
+		"Published" : 1979,
+		"Original" : "Astérix chez les Belges",
+		"Finnish" : "Asterix Belgiassa",
+		"Volume" : 24,
+		"Cover" : "images/asterix-24.jpg",
+		"Author" : "René Goscinny & Albert Uderzo"
+	},
+	{
+		"Title" : "Asterix and the Great Divide",
+		"Published" : 1980,
+		"Original" : "Le Grand Fossé",
+		"Finnish" : "Syvä kuilu",
+		"Volume" : 25,
+		"Cover" : "images/asterix-25.jpg",
+		"Author" : "Albert Uderzo"
+	},
+	{
+		"Title" : "Asterix and the Black Gold",
+		"Published" : 1981,
+		"Original" : "L'Odyssée d'Astérix",
+		"Finnish" : "Asterixin harharetket",
+		"Volume" : 26,
+		"Cover" : "images/asterix-26.jpg",
+		"Author" : "Albert Uderzo"
+	},
+	{
+		"Title" : "Asterix and Son",
+		"Published" : 1983,
+		"Original" : "Le Fils d'Astérix",
+		"Finnish" : "Asterixin poika",
+		"Volume" : 27,
+		"Cover" : "images/asterix-27.jpg",
+		"Author" : "Albert Uderzo"
+	},
+	{
+		"Title" : "Asterix and the Magic Carpet",
+		"Published" : 1987,
+		"Original" : "Astérix chez Rahazade",
+		"Finnish" : "Asterix Intiassa",
+		"Volume" : 28,
+		"Cover" : "images/asterix-28.jpg",
+		"Author" : "Albert Uderzo"
+	},
+	{
+		"Title" : "Asterix and the Secret Weapon",
+		"Published" : 1991,
+		"Original" : "La Rose et le Glaive",
+		"Finnish" : "Ruusu ja miekka",
+		"Volume" : 29,
+		"Cover" : "images/asterix-29.jpg",
+		"Author" : "Albert Uderzo"
+	},
+	{
+		"Title" : "Asterix and Obelix All at Sea",
+		"Published" : 1996,
+		"Original" : "La Galère d'Obélix",
+		"Finnish" : "Asterix and the Actress",
+		"Volume" : 30,
+		"Cover" : "images/asterix-30.jpg",
+		"Author" : "Albert Uderzo"
+	},
+	{
+		"Title" : "Asterix and the Actress",
+		"Published" : 2001,
+		"Original" : "Astérix et la Traviata",
+		"Finnish" : "Asterix ja Latraviata",
+		"Volume" : 31,
+		"Cover" : "images/asterix-31.jpg",
+		"Author" : "Albert Uderzo"
+	},
+	{
+		"Title" : "Asterix and the Class Act",
+		"Published" : 2003,
+		"Original" : "La Rentrée gauloise",
+		"Finnish" : "Gallialainen kertomataulu",
+		"Volume" : 32,
+		"Cover" : "images/asterix-32.jpg",
+		"Author" : "René Goscinny & Albert Uderzo"
+	},
+	{
+		"Title" : "Asterix and the Falling Sky",
+		"Published" : 2005,
+		"Original" : "Le ciel lui tombe sur la tête",
+		"Finnish" : "Taivas putoaa niskaan",
+		"Volume" : 33,
+		"Cover" : "images/asterix-33.jpg",
+		"Author" : "Albert Uderzo"
+	},
+	{
+		"Title" : "Asterix and Obelix's Birthday",
+		"Published" : 2009,
+		"Original" : "L'Anniversaire d'Astérix et Obélix",
+		"Finnish" : "Asterixin & Obelixin syntymäpäivä",
+		"Volume" : 34,
+		"Cover" : "images/asterix-34.jpg",
+		"Author" : "René Goscinny & Albert Uderzo"
+	},
+	{
+		"Title" : "Asterix and the Picts",
+		"Published" : 2013,
+		"Original" : "Astérix chez les Pictes",
+		"Finnish" : "Asterix ja piktit",
+		"Volume" : 35,
+		"Cover" : "images/asterix-35.jpg",
+		"Author" : "Jean-Yves Ferri & Didier Conrad"
+	},
+	{
+		"Title" : "Asterix and the Missing Scroll",
+		"Published" : 2015,
+		"Original" : "Le Papyrus de César",
+		"Finnish" : "Asterix ja Caesarin papyrus",
+		"Volume" : 36,
+		"Cover" : "images/asterix-36.jpg",
+		"Author" : "Jean-Yves Ferri & Didier Conrad"
+	},
+	{
+		"Title" : "Asterix and the Chariot Race",
+		"Published" : 2017,
+		"Original" : "Astérix et la Transitalique",
+		"Finnish" : "Kilpa-ajo halki Italian",
+		"Volume" : 37,
+		"Cover" : "images/asterix-37.jpg",
+		"Author" : "Jean-Yves Ferri & Didier Conrad"
+	},
+		{
+		"Title" : "Asterix and the Chieftain's Daughter",
+		"Published" : 2019,
+		"Original" : "La Fille de Vercingétorix",
+		"Finnish" : "Vercingetorixin tytär",
+		"Volume" : 38,
+		"Cover" : "images/asterix-38.jpg",
+		"Author" : "Jean-Yves Ferri & Didier Conrad"
+	}
 ]
 }
