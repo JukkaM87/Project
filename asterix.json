@@ -6,7 +6,7 @@
 		"Original" : "Astérix le Gaulois",
 		"Finnish" : "Asterix gallialainen",
 		"Volume" : 1,
-		"Cover" : "images/asterix-1.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-1.jpg",
 		"Author" : "René Goscinny & Albert Uderzo"
 	},
 	{
@@ -15,7 +15,7 @@
 		"Original" : "La Serpe d’or",
 		"Finnish" : "Kultainen Sirppi",
 		"Volume" : 2,
-		"Cover" : "images/asterix-2.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-2.jpg",
 		"Author" : "René Goscinny & Albert Uderzo"
 	},
 	{
@@ -24,7 +24,7 @@
 		"Original" : "Astérix et les Goths",
 		"Finnish" : "Asterix ja gootit",
 		"Volume" : 3,
-		"Cover" : "images/asterix-3.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-3.jpg",
 		"Author" : "René Goscinny & Albert Uderzo"
 	},
 	{
@@ -33,7 +33,7 @@
 		"Original" : "Astérix gladiateur",
 		"Finnish" : "Asterix gladiaattorina",
 		"Volume" : 4,
-		"Cover" : "images/asterix-4.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-4.jpg",
 		"Author" : "René Goscinny & Albert Uderzo"
 	},
 	{
@@ -42,7 +42,7 @@
 		"Original" : "Le Tour de Gaule",
 		"Finnish" : "Asterix lyö vetoa",
 		"Volume" : 5,
-		"Cover" : "images/asterix-5.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-5.jpg",
 		"Author" : "René Goscinny & Albert Uderzo"
 	},
 	{
@@ -51,7 +51,7 @@
 		"Original" : "Astérix et Cléopâtre",
 		"Finnish" : "Asterix ja Kleopatra",
 		"Volume" : 6,
-		"Cover" : "images/asterix-6.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-6.jpg",
 		"Author" : "René Goscinny & Albert Uderzo"
 	},	
 	{
@@ -60,7 +60,7 @@
 		"Original" : "Le Combat des chefs",
 		"Finnish" : "Päälliköiden ottelu",
 		"Volume" : 7,
-		"Cover" : "images/asterix-7.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-7.jpg",
 		"Author" : "René Goscinny & Albert Uderzo"
 	},
 	{
@@ -69,7 +69,7 @@
 		"Original" : "Astérix chez les Bretons",
 		"Finnish" : "Asterix Britanniassa",
 		"Volume" : 8,
-		"Cover" : "images/asterix-8.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-8.jpg",
 		"Author" : "René Goscinny & Albert Uderzo"
 	},
 	{
@@ -78,7 +78,7 @@
 		"Original" : "Astérix et les Normands",
 		"Finnish" : "Asterix ja normannien maihinnousu",
 		"Volume" : 9,
-		"Cover" : "images/asterix-9.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-9.jpg",
 		"Author" : "René Goscinny & Albert Uderzo"
 	},
 	{
@@ -87,7 +87,7 @@
 		"Original" : "Astérix légionnaire",
 		"Finnish" : "Asterix legioonalaisena",
 		"Volume" : 10,
-		"Cover" : "images/asterix-10.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-10.jpg",
 		"Author" : "René Goscinny & Albert Uderzo"
 	},
 	{
@@ -96,7 +96,7 @@
 		"Original" : "Le Bouclier arverne",
 		"Finnish" : "Asterix ja kadonnut kilpi",
 		"Volume" : 11,
-		"Cover" : "images/asterix-11.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-11.jpg",
 		"Author" : "René Goscinny & Albert Uderzo"
 	},
 	{
@@ -105,7 +105,7 @@
 		"Original" : "Astérix aux Jeux olympiques",
 		"Finnish" : "Asterix olympialaisissa",
 		"Volume" : 12,
-		"Cover" : "images/asterix-12.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-12.jpg",
 		"Author" : "René Goscinny & Albert Uderzo"
 	},
 	{
@@ -114,7 +114,7 @@
 		"Original" : "Astérix et le Chaudron",
 		"Finnish" : "Asterix ja rahapata",
 		"Volume" : 13,
-		"Cover" : "images/asterix-13.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-13.jpg",
 		"Author" : "René Goscinny & Albert Uderzo"
 	},
 	{
@@ -123,7 +123,7 @@
 		"Original" : "Astérix en Hispanie",
 		"Finnish" : "Asterix Hispaniassa",
 		"Volume" : 14,
-		"Cover" : "images/asterix-14.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-14.jpg",
 		"Author" : "René Goscinny & Albert Uderzo"
 	},
 	{
@@ -132,7 +132,7 @@
 		"Original" : "La Zizanie",
 		"Finnish" : "Asterix ja riidankylväjä",
 		"Volume" : 15,
-		"Cover" : "images/asterix-15.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-15.jpg",
 		"Author" : "René Goscinny & Albert Uderzo"
 	},
 	{
@@ -141,7 +141,7 @@
 		"Original" : "Astérix chez les Helvètes",
 		"Finnish" : "Asterix ja alppikukka",
 		"Volume" : 16,
-		"Cover" : "images/asterix-16.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-16.jpg",
 		"Author" : "René Goscinny & Albert Uderzo"
 	},
 	{
@@ -150,7 +150,7 @@
 		"Original" : "Le Domaine des dieux",
 		"Finnish" : "Jumaltenrannan nousu ja tuho",
 		"Volume" : 17,
-		"Cover" : "images/asterix-17.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-17.jpg",
 		"Author" : "René Goscinny & Albert Uderzo"
 	},
 	{
@@ -159,7 +159,7 @@
 		"Original" : "Les Lauriers de César",
 		"Finnish" : "Asterix ja Caesarin laakeriseppele",
 		"Volume" : 18,
-		"Cover" : "images/asterix-18.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-18.jpg",
 		"Author" : "René Goscinny & Albert Uderzo"
 	},
 	{
@@ -168,7 +168,7 @@
 		"Original" : "Le Devin",
 		"Finnish" : "Asterix ja ennustaja",
 		"Volume" : 19,
-		"Cover" : "images/asterix-19.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-19.jpg",
 		"Author" : "René Goscinny & Albert Uderzo"
 	},
 	{
@@ -177,7 +177,7 @@
 		"Original" : "Astérix en Corse",
 		"Finnish" : "Asterix Korsikassa",
 		"Volume" : 20,
-		"Cover" : "images/asterix-20.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-20.jpg",
 		"Author" : "René Goscinny & Albert Uderzo"
 	},
 	{
@@ -186,7 +186,7 @@
 		"Original" : "Le Cadeau de César",
 		"Finnish" : "Asterix ja Caesarin lahja",
 		"Volume" : 21,
-		"Cover" : "images/asterix-21.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-21.jpg",
 		"Author" : "René Goscinny & Albert Uderzo"
 	},
 	{
@@ -195,7 +195,7 @@
 		"Original" : "La Grande Traversée",
 		"Finnish" : "Asterix ja suuri merimatka",
 		"Volume" : 22,
-		"Cover" : "images/asterix-22.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-22.jpg",
 		"Author" : "René Goscinny & Albert Uderzo"
 	},
 	{
@@ -204,7 +204,7 @@
 		"Original" : "Obélix et compagnie",
 		"Finnish" : "Obelix ja kumppanit",
 		"Volume" : 23,
-		"Cover" : "images/asterix-23.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-23.jpg",
 		"Author" : "René Goscinny & Albert Uderzo"
 	},
 	{
@@ -213,7 +213,7 @@
 		"Original" : "Astérix chez les Belges",
 		"Finnish" : "Asterix Belgiassa",
 		"Volume" : 24,
-		"Cover" : "images/asterix-24.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-24.jpg",
 		"Author" : "René Goscinny & Albert Uderzo"
 	},
 	{
@@ -222,7 +222,7 @@
 		"Original" : "Le Grand Fossé",
 		"Finnish" : "Syvä kuilu",
 		"Volume" : 25,
-		"Cover" : "images/asterix-25.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-25.jpg",
 		"Author" : "Albert Uderzo"
 	},
 	{
@@ -231,7 +231,7 @@
 		"Original" : "L'Odyssée d'Astérix",
 		"Finnish" : "Asterixin harharetket",
 		"Volume" : 26,
-		"Cover" : "images/asterix-26.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-26.jpg",
 		"Author" : "Albert Uderzo"
 	},
 	{
@@ -240,7 +240,7 @@
 		"Original" : "Le Fils d'Astérix",
 		"Finnish" : "Asterixin poika",
 		"Volume" : 27,
-		"Cover" : "images/asterix-27.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-27.jpg",
 		"Author" : "Albert Uderzo"
 	},
 	{
@@ -249,7 +249,7 @@
 		"Original" : "Astérix chez Rahazade",
 		"Finnish" : "Asterix Intiassa",
 		"Volume" : 28,
-		"Cover" : "images/asterix-28.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-28.jpg",
 		"Author" : "Albert Uderzo"
 	},
 	{
@@ -258,7 +258,7 @@
 		"Original" : "La Rose et le Glaive",
 		"Finnish" : "Ruusu ja miekka",
 		"Volume" : 29,
-		"Cover" : "images/asterix-29.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-29.jpg",
 		"Author" : "Albert Uderzo"
 	},
 	{
@@ -267,7 +267,7 @@
 		"Original" : "La Galère d'Obélix",
 		"Finnish" : "Asterix and the Actress",
 		"Volume" : 30,
-		"Cover" : "images/asterix-30.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-30.jpg",
 		"Author" : "Albert Uderzo"
 	},
 	{
@@ -276,7 +276,7 @@
 		"Original" : "Astérix et la Traviata",
 		"Finnish" : "Asterix ja Latraviata",
 		"Volume" : 31,
-		"Cover" : "images/asterix-31.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-31.jpg",
 		"Author" : "Albert Uderzo"
 	},
 	{
@@ -285,7 +285,7 @@
 		"Original" : "La Rentrée gauloise",
 		"Finnish" : "Gallialainen kertomataulu",
 		"Volume" : 32,
-		"Cover" : "images/asterix-32.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-32.jpg",
 		"Author" : "René Goscinny & Albert Uderzo"
 	},
 	{
@@ -294,7 +294,7 @@
 		"Original" : "Le ciel lui tombe sur la tête",
 		"Finnish" : "Taivas putoaa niskaan",
 		"Volume" : 33,
-		"Cover" : "images/asterix-33.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-33.jpg",
 		"Author" : "Albert Uderzo"
 	},
 	{
@@ -303,7 +303,7 @@
 		"Original" : "L'Anniversaire d'Astérix et Obélix",
 		"Finnish" : "Asterixin & Obelixin syntymäpäivä",
 		"Volume" : 34,
-		"Cover" : "images/asterix-34.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-34.jpg",
 		"Author" : "René Goscinny & Albert Uderzo"
 	},
 	{
@@ -312,7 +312,7 @@
 		"Original" : "Astérix chez les Pictes",
 		"Finnish" : "Asterix ja piktit",
 		"Volume" : 35,
-		"Cover" : "images/asterix-35.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-35.jpg",
 		"Author" : "Jean-Yves Ferri & Didier Conrad"
 	},
 	{
@@ -321,7 +321,7 @@
 		"Original" : "Le Papyrus de César",
 		"Finnish" : "Asterix ja Caesarin papyrus",
 		"Volume" : 36,
-		"Cover" : "images/asterix-36.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-36.jpg",
 		"Author" : "Jean-Yves Ferri & Didier Conrad"
 	},
 	{
@@ -330,7 +330,7 @@
 		"Original" : "Astérix et la Transitalique",
 		"Finnish" : "Kilpa-ajo halki Italian",
 		"Volume" : 37,
-		"Cover" : "images/asterix-37.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-37.jpg",
 		"Author" : "Jean-Yves Ferri & Didier Conrad"
 	},
 	{
@@ -339,7 +339,7 @@
 		"Original" : "La Fille de Vercingétorix",
 		"Finnish" : "Vercingetorixin tytär",
 		"Volume" : 38,
-		"Cover" : "images/asterix-38.jpg",
+		"Cover" : "https://github.com/JukkaM87/Project/blob/master/images/asterix-38.jpg",
 		"Author" : "Jean-Yves Ferri & Didier Conrad"
 	}
 ]
