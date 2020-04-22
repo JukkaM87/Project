@@ -1,0 +1,24 @@
+{
+"authors" : [
+	{
+		"Author" : "René Goscinny",
+		"Picture" : "https://github.com/JukkaM87/Project/blob/master/images/Ren%C3%A9%20Goscinny.jpg?raw=true",
+		"Life" : 1926 "-" 1977,
+	},
+	{	
+		"Author" : "Albert Uderzo"
+		"Picture" : "https://github.com/JukkaM87/Project/blob/master/images/Albert%20Uderzo.jpg?raw=true",
+		"Life" : 1927 "-" 2020,
+	},
+	{
+		"Author" : "Jean-Yves Ferri"
+		"Picture" : "https://github.com/JukkaM87/Project/blob/master/images/Jean-Yves%20Ferri.jpg?raw=true",
+		"Life" : 1959 "-",
+	},
+	{
+		"Author" : "Didier Conrad"
+		"Picture" : "https://github.com/JukkaM87/Project/blob/master/images/Didier%20Conrad.JPG?raw=true",
+		"Life" : 1959 "-",
+	}
+]
+}
